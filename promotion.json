@@ -1,8 +1,8 @@
 {
     "promoMonthFam": true,
-    "promoAdidas": true,
+    "promoAdidas": false,
     "promoVella": true,
     "promoSummer": true,
-    "promoBeauty": true,
-    "promoRandomBanner": true
+    "promoBeauty": false,
+    "promoRandomBanner": false
 }
